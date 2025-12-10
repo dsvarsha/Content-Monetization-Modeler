@@ -67,6 +67,17 @@ Subscribers
 
 🖥️ Running the Streamlit App
 
+## 🚀 Setup & Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/dsvarsha/Content-Monetization-Modeler.git
+cd Content-Monetization-Modeler
+
+python -m venv venv
+venv\Scripts\activate
+
+
 Install requirements:
 
 pip install -r requirements.txt
@@ -81,12 +92,8 @@ python scripts/step3_preprocessing.py
 python scripts/step4_model.py
 python scripts/step5_shap.py
 
-☁️ Model Artifacts
 
-Model files are excluded due to size.
-You can download the model here:
 
-➡️ Add Google Drive link here
 
 🙋‍♀️ About the Author
 
