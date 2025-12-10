@@ -1,5 +1,3 @@
-:
-
 📘 Content Monetization Modeler
 YouTube Ad Revenue Prediction using Machine Learning + Streamlit
 <p align="center"> <img src="https://img.shields.io/badge/Project-ML%20Pipeline-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Framework-ScikitLearn-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/App-Streamlit-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Explainability-SHAP-green?style=for-the-badge" /> </p>
